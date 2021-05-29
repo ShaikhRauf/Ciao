@@ -1,0 +1,22 @@
+
+export default {
+
+    WHITE : '#ffffff',
+    BLACK : '#000000',
+    RED : '#FF0000',
+    LIGHT_GRAY: '#F5F5F7',
+    FAINT_GRAY:"#DDDDDD",
+    GRAY:'#39393A',
+    DARK_GRAY: '#484E66',
+    BLUE_DARK: '#34497D',
+    ORANGE:'#FF6812',
+    LIGHT_ORANGE:"#FFA876",
+    CIAO_THEME_COLOR : '#91C788',
+    SKY_BLUE:"#2AB2C7",
+    ACTIVE_TAB_PINK_COLOR:'#FF8473',
+    SUB_TEXT_LIGHT_GRAY:'#A9A9A9',
+    YELLOW_OK: '#FFBC2E',
+    RED_DARK_POOR: '#CF5A18',
+    DARK_GREEN:'#3E8539'
+    
+}
